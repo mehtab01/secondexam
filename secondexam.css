@@ -1,1 +1,35 @@
 @CHARSET "ISO-8859-1";
+body{
+	width: 90%;
+	margin:0;
+	background-color: #ECEBEB;
+	position: fixed;
+	margin-left: 20px;
+	margin-right: 10px;
+	
+}
+#head{
+	width:90%;
+	margin:auto;
+	background-color: #66ff33;
+	padding: 0px 10px;
+}
+#menu{
+	text-align: center;
+	background-color: #66ff33;
+	margin-bottom: 0;
+	margin: auto;
+	padding: 0 10px;
+	box-sizing: border;
+	min-height: 0px;
+}
+hr{
+	color: #66ff33;
+}
+#head-content{
+	background: url('file:///C:/Users/DELL/Desktop/examrelatedmaterial/bigimage.jpg');
+	background-color: #fff;
+	min-height: 1000px;
+	opacity: 0.6;
+	margin-bottom: 20px;
+}
